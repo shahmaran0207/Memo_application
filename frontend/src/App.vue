@@ -1,9 +1,15 @@
 <template>
+
+  <div class="app">
+    <Ground/>
+  </div>
 </template>
 
 <script>
 
-export default {
+import Ground from "./components/MainGround.vue"
 
+export default {
+  components:{Ground}
 }
 </script>
