@@ -56,17 +56,3 @@
 7. 이제 localhost:5174을 통해 메시지 사이트를 이용 가능합니다.
 
 ---
-## 🌟 애플리케이션 화면
-
-### 📋 메모 목록 화면
-<img src="https://github.com/shahmaran0207/Memo_application/blob/main/memo_list.png" alt="Memo List" width="80%"/>
-
-### 📝 메모 추가 화면
-<img src="https://github.com/shahmaran0207/Memo_application/blob/main/add_memo.png" alt="Add Memo" width="80%"/>
-
----
-
-## 📡 API 정보
-
-- **Backend Endpoint**: `/api/memos`  
-- **기능**: 메모 데이터 CRUD 처리
